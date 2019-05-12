@@ -6790,7 +6790,7 @@ panel-toplevel.background .wnck-pager {
 
 .mate-panel-menu-bar .wnck-pager:hover,
 panel-toplevel.background .wnck-pager:hover {
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .mate-panel-menu-bar .wnck-pager:selected,

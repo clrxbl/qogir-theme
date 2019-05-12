@@ -365,7 +365,7 @@ button {
   padding: 2px 6px;
   color: #D3DAE3;
   border-color: rgba(255, 255, 255, 0.12);
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 button separator {
@@ -734,7 +734,7 @@ button.circular-button:active, .raven button.image-button:active, .raven .expand
 .inline-toolbar toolbutton > button {
   color: #D3DAE3;
   border-color: rgba(255, 255, 255, 0.12);
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .inline-toolbar toolbutton > button:hover {
@@ -1848,7 +1848,7 @@ headerbar entry:backdrop, .nemo-window .primary-toolbar entry:backdrop, window.t
 headerbar entry:focus, .nemo-window .primary-toolbar entry:focus, window.thunar toolbar#location-toolbar entry:focus, window.thunar #location-toolbar.inline-toolbar entry:focus {
   color: rgba(255, 255, 255, 0.8);
   border-color: #66d9ef;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
   background-clip: padding-box;
 }
 
@@ -4598,7 +4598,7 @@ colorswatch#add-color-button {
   border-width: 1px;
   color: #D3DAE3;
   border-color: rgba(255, 255, 255, 0.12);
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 colorswatch#add-color-button:hover {
@@ -5906,7 +5906,7 @@ headerbar.titlebar.incognito-mode entry image, headerbar.titlebar.incognito-mode
 headerbar.titlebar.incognito-mode entry:focus {
   color: rgba(255, 255, 255, 0.8);
   border-color: #66d9ef;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 headerbar.titlebar.incognito-mode entry:disabled {
@@ -5932,7 +5932,7 @@ notebook > box > stack > box.vertical > paned.vertical > overlay > .floating-bar
 .background headerbar entry.starred:focus, .background headerbar entry.non-starred:focus {
   color: rgba(255, 255, 255, 0.8);
   border-color: #66d9ef;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .background headerbar entry.starred:disabled, .background headerbar entry.non-starred:disabled {
@@ -6126,7 +6126,7 @@ stack > overlay > frame > scrolledwindow.frame {
 .nemo-window notebook .primary-toolbar combobox > .linked > button.combo {
   color: #D3DAE3;
   border-color: rgba(255, 255, 255, 0.12);
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .nemo-window notebook .primary-toolbar button:hover,
@@ -6314,7 +6314,7 @@ window.background:not(.csd) > widget .entry:focus {
 }
 
 window.background:not(.csd) > widget > spinbutton {
-  background-image: image(#2c2f39);
+  background-image: image(#2d2d2d);
   border: 1px solid rgba(255, 255, 255, 0.12);
 }
 
@@ -7019,7 +7019,7 @@ panel-toplevel.background .wnck-pager {
 
 .mate-panel-menu-bar .wnck-pager:hover,
 panel-toplevel.background .wnck-pager:hover {
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .mate-panel-menu-bar .wnck-pager:selected,
@@ -8713,7 +8713,7 @@ MarlinViewWindow FMListView, MarlinViewWindow FMColumnView {
 .marlin-pathbar.pathbar:focus {
   color: rgba(255, 255, 255, 0.8);
   border-color: #66d9ef;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 .marlin-pathbar.pathbar:disabled {
@@ -8887,7 +8887,7 @@ scale.warmth trough {
 #content_frame button {
   color: #D3DAE3;
   border-color: rgba(255, 255, 255, 0.12);
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
 }
 
 #content_frame button:hover {

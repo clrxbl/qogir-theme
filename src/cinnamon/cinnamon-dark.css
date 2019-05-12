@@ -1,5 +1,5 @@
 stage {
-  font-family: Futura Bk bt, sans, Sans-Serif;
+  font-family: Yu Gothic UI, sans, Sans-Serif;
   font-size: 9pt;
   color: #D3DAE3;
 }
@@ -16,7 +16,7 @@ stage {
   transition-duration: 0;
   text-shadow: none;
   color: #D3DAE3;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
   border: 1px solid rgba(255, 255, 255, 0.12);
   box-shadow: inset 0 2px 4px rgba(44, 47, 57, 0.05);
 }
@@ -44,7 +44,7 @@ stage {
 .popup-menu #notification .notification-icon-button:focus, .sound-button:focus {
   text-shadow: none;
   color: #D3DAE3;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
   border: 1px solid #66d9ef;
   box-shadow: inset 0 2px 4px rgba(44, 47, 57, 0.05);
 }
@@ -64,7 +64,7 @@ stage {
 .popup-menu #notification .notification-icon-button:hover:focus, .menu-favorites-button:focus:hover, .sound-button:hover:focus {
   text-shadow: none;
   color: #D3DAE3;
-  background-color: #2c2f39;
+  background-color: #2d2d2d;
   border: 1px solid #66d9ef;
   box-shadow: inset 0 2px 4px rgba(44, 47, 57, 0.05);
 }
@@ -2105,7 +2105,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .workspace-graph .workspace:active .windows {
   -active-window-background: #4d5265;
   -active-window-border: rgba(0, 0, 0, 0.8);
-  -inactive-window-background: #2c2f39;
+  -inactive-window-background: #2d2d2d;
   -inactive-window-border: rgba(0, 0, 0, 0.8);
 }
 

@@ -1,5 +1,5 @@
 stage {
-  font-family: Futura Bk bt, sans, Sans-Serif;
+  font-family: Yu Gothic UI, sans, Sans-Serif;
   font-size: 9pt;
   color: #5c616c;
 }
@@ -2105,7 +2105,7 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
 .workspace-graph .workspace:active .windows {
   -active-window-background: #4d5265;
   -active-window-border: rgba(0, 0, 0, 0.8);
-  -inactive-window-background: #2c2f39;
+  -inactive-window-background: #2d2d2d;
   -inactive-window-border: rgba(0, 0, 0, 0.8);
 }
 
